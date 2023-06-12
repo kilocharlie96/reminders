@@ -36,7 +36,7 @@ h1{
 
 h1.today{
     color: rgb(var(--color-today));
-    display: block;
+
 }
 
 h1.scheduled{
@@ -45,6 +45,7 @@ h1.scheduled{
 
 h1.all{
     color: rgb(var(--color-all));
+    display: block;
 }
 
 h1.flagged{

@@ -1,5 +1,11 @@
 // (function($){
-//     var title = $('.title');
+//     // var title = $('.title');
 
-//     title.hide();
+//     // title.hide();
+
+//     var h1 = $('.title');
+
+//     h1.find('h1').hide();
+
+
 // })(jQuery);
