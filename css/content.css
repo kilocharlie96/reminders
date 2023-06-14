@@ -45,7 +45,6 @@ h1.scheduled{
 
 h1.all{
     color: rgb(var(--color-all));
-    display: block;
 }
 
 h1.flagged{
