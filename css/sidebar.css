@@ -149,12 +149,27 @@ nav span{
     line-height: 2.25rem;
 }
 
-.my_lists{
-    display: flex;
-    align-items: center;
+/*My Lists*/
+
+.lists_container{
+    margin-top: 1rem;
 }
 
-.my_lists svg{
+.lists_container small{
+    color: rgba(255,255,255,0.4);
+}
+
+.my_lists{
+    margin-top: 0.35rem;
+}
+
+.list{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.list svg{
     width: 2.25rem;
     height: 2.25rem;
     border-radius: 2.25rem;
@@ -166,4 +181,9 @@ nav span{
     margin-bottom: 0.375rem;
 
     background-color: rgb(var(--color-today));
+}
+
+.list p{
+    font-weight:bold;
+    padding-bottom: 0.4rem;
 }
