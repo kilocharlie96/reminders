@@ -1,3 +1,3 @@
 # :watch: Reminders App - Remake
-## :wrench: Built during online course for training purposes
+## :wrench: Inspired by Apple, teached by Yablko, written by me.
 ### :crown: Credit by: Yablko
