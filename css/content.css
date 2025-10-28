@@ -34,6 +34,10 @@ h1{
     display: none;
 }
 
+h2.title.title-wrapper--no-top-margin.inline-richtext.h2.scroll-trigger.animate--slide-in strong {
+  color: black;
+}
+
 h1.today{
     color: rgb(var(--color-today));
     display: block;
