@@ -39,7 +39,7 @@ body{
     border-radius: 0.75rem;
 
     display: grid;
-    grid-template-columns: 15vw 42vw;
+    grid-template-columns: 1fr 2fr;
 
     overflow: hidden;
 }
